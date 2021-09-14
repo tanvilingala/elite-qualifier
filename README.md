@@ -1,6 +1,6 @@
-# Title
+# CHATBOT
 
-Simple (or clever and funny?) description
+A chatbot is an AI feature when computers and humans can conversate with eachother
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+In this chatbot, you can conversate about the weather, your favorite food, favorite sports teams, and more fun topics.
 
 ## Install
 
